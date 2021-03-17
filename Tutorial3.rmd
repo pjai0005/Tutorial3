@@ -1,0 +1,5 @@
+# Write data from R into a csv file
+```{r}
+write.csv(cars, file = 'Data/cars.cs')
+```
+
